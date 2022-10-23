@@ -1,0 +1,7 @@
+/.settings/
+/.project
+/.classpath
+/pom.xml.releaseBackup
+/release.properties
+/target/
+/.idea/
