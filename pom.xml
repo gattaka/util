@@ -6,7 +6,7 @@
     <artifactId>util</artifactId>
     <name>Gattserver utils</name>
     <description></description>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <properties>
         <scm.base.url>scm:git:https://github.com/gattaka</scm.base.url>
